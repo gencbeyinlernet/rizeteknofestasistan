@@ -1,0 +1,8 @@
+{
+  "name": "Rize Teknofest Proje Yazma Asistanı",
+  "description": "Rize'nin çay kültürü ve teknoloji vizyonunu birleştiren, AI destekli Teknofest proje geliştirme sistemi.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
